@@ -1,5 +1,6 @@
 {
     "AWSTemplateFormatVersion": "2010-09-09",
+    "Description":"a three tier architecture"
     "Metadata": {
         "AWS::CloudFormation::Designer": {
             "0dc14e12-3bd4-47ae-9c24-3864cff48cea": {
